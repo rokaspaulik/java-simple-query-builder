@@ -1,5 +1,5 @@
 
-# Simple query builder
+# Simple UTF8 valid query builder
 
 ## Story
 
